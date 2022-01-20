@@ -1,0 +1,29 @@
+{
+  "name": "asm-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:css": "npx tailwindcss -i tailwind.css -o ./dist/main.css --minify --watch",
+    "start": "webpack serve --open --mode development",
+    "start:server": "json-server-auth --watch db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.3.4",
+    "json-server": "^0.16.3",
+    "json-server-auth": "^2.1.0",
+    "parcel-bundler": "^1.12.5",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.15"
+  },
+  "dependencies": {
+    "axios": "^0.22.0",
+    "firebase": "^9.1.1",
+    "navigo": "^8.11.1",
+    "webpack": "^5.55.1",
+    "webpack-cli": "^4.8.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}

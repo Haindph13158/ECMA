@@ -1,0 +1,455 @@
+{
+  "product": [
+    {
+      "idcategory": "1",
+      "name": "Converse “Metal CONS” Pull Over Hoodie",
+      "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2FT-shirt-2.jpg?alt=media&token=3cba5269-3eee-43f6-9f28-bf14d850ee9f",
+      "price": 100,
+      "code": "10017495001",
+      "status": "1",
+      "Quantity": "12",
+      "id": "MZYtYcV"
+    },
+    {
+      "idcategory": "1",
+      "name": "Converse Collegiate Text SS Tee",
+      "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2FT-shirt.jpg?alt=media&token=18676c2e-8919-48f3-be26-29d47c40af71",
+      "price": 100,
+      "code": "10017340001",
+      "status": "1",
+      "Quantity": 1,
+      "id": "xSeJ_ZJ"
+    },
+    {
+      "idcategory": "1",
+      "name": "Converse Star Chevron Jogger",
+      "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2Fjogger-600x384.jpg?alt=media&token=f9e43419-2624-4d6f-af42-990ae349c5d4",
+      "price": 9,
+      "code": "10007883001",
+      "status": "1",
+      "Quantity": 2,
+      "id": "f2TGy6k"
+    },
+    {
+      "idcategory": "1",
+      "name": "Converse X Suicidal Tendencies Long Sleeve Tee",
+      "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2FT-shirt-1.jpg?alt=media&token=218edba1-d1f6-4c05-9f75-9af25fc8d7d2",
+      "price": 50,
+      "code": "10008342001",
+      "status": "1",
+      "Quantity": 6,
+      "id": "hdsYmAQ"
+    },
+    {
+      "idcategory": "1",
+      "name": "Lil Duffel",
+      "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2Fbalo-2-600x384.jpg?alt=media&token=65f3f935-ff70-4f34-b877-3523886f34b6",
+      "price": 20,
+      "code": "123",
+      "status": "1",
+      "Quantity": 8,
+      "id": "PRbds63"
+    },
+    {
+      "idcategory": "1",
+      "name": "Sport Duffel",
+      "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2Fbalo-1-600x384.jpg?alt=media&token=d77eb629-43de-47d4-94a0-6ef26a67812d",
+      "price": 100,
+      "code": "10008288322",
+      "status": "1",
+      "Quantity": 10,
+      "id": "U7U2Y-7"
+    },
+    {
+      "idcategory": "3",
+      "name": "Chuck 70 Archive Prints Hi",
+      "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2Fwomen-chuck-07-600x384.jpg?alt=media&token=24cd8441-5596-4e8e-b344-21fcf5c8b6bb",
+      "price": 199,
+      "code": "163406C",
+      "status": "1",
+      "Quantity": 23,
+      "id": "eSbxp2m"
+    },
+    {
+      "idcategory": "3",
+      "name": "Chuck Taylor All Star 70 Full Gator Hi",
+      "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2Fwomen-chuck-07-1-600x384.jpg?alt=media&token=61e44691-b3cf-4b42-b73b-bb79ccc94ab7",
+      "price": 189,
+      "code": "561760C",
+      "status": "1",
+      "Quantity": 24,
+      "id": "roP3DW0"
+    },
+    {
+      "idcategory": "3",
+      "name": "Chuck Taylor Classic",
+      "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2Fwomen-classic-8-600x384.jpg?alt=media&token=6db77008-0918-4b28-8042-9ee8a287287b",
+      "price": 50,
+      "code": "121186A",
+      "status": "1",
+      "Quantity": "45",
+      "id": "CkYu83j"
+    },
+    {
+      "idcategory": "3",
+      "name": "Chuck Taylor All Star 70 Poplin Shirt",
+      "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2Fwomen-chuck-07-2-600x384.jpg?alt=media&token=aadc7de1-3893-4832-a942-a857be324a23",
+      "price": 100,
+      "code": "157476C",
+      "status": "1",
+      "Quantity": 56,
+      "id": "A5Bzfkx"
+    },
+    {
+      "idcategory": "2",
+      "name": "Chuck 70 Psy-Kicks Ox",
+      "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2Fwomen-psy-2-600x384.jpg?alt=media&token=3c8b72f0-637e-4590-9d7b-65529b5b8ad1",
+      "price": 20,
+      "code": "164212C",
+      "status": "1",
+      "Quantity": 67,
+      "id": "pFcC5D2"
+    },
+    {
+      "idcategory": "3",
+      "name": "One Star Love the Progress",
+      "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2Fsale-off-4.jpg?alt=media&token=d13eadae-0552-42c1-8af0-f58dad34fb15",
+      "price": 30,
+      "code": "163189V",
+      "status": "1",
+      "Quantity": "78",
+      "id": "rwt7BM2"
+    },
+    {
+      "idcategory": "1",
+      "name": "Speed 2 Backpack",
+      "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2Fbalo-3-600x384.jpg?alt=media&token=35deb216-077c-4d93-9eca-fdd6fb62859f",
+      "price": "123",
+      "code": "10008286426",
+      "status": "1",
+      "Quantity": 90,
+      "id": "S9_nl-A"
+    },
+    {
+      "idcategory": "1",
+      "name": "Poly Chuck Plus 1.0",
+      "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2Fbalo-4-600x384.jpg?alt=media&token=427c5fda-7b1f-43c8-9826-5f16c11dc428",
+      "price": "567",
+      "code": "1000788300123",
+      "status": "2",
+      "Quantity": 5,
+      "id": "NJNyThO"
+    },
+    {
+      "idcategory": "4",
+      "name": "Jack Purcell Pro",
+      "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2Fsale-off-8.jpg?alt=media&token=40635780-4c09-440c-8cd6-9fcf1f3339d4",
+      "price": "10",
+      "code": "SALE-01",
+      "status": "1",
+      "Quantity": 45,
+      "id": "QG3hKga"
+    },
+    {
+      "idcategory": "4",
+      "name": "One Star Love the Progress ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2Fsale-off-1.jpg?alt=media&token=0a201da4-689d-49bf-be13-bba0d812f888",
+      "price": "10",
+      "code": "SALEOFF01",
+      "status": "1",
+      "Quantity": "43",
+      "id": "ie9khZc"
+    },
+    {
+      "idcategory": "3",
+      "name": "84 Thunder Boilter",
+      "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2Fsale-off-5.jpg?alt=media&token=97f9e00c-8965-4324-ae48-6e8cc3af67b0",
+      "price": "10",
+      "code": "SALEOFF02",
+      "status": "1",
+      "Quantity": "32",
+      "id": "a_-T5Bl"
+    },
+    {
+      "idcategory": "4",
+      "name": "Chuck Taylor All Star Full ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2Fsale-off-2.jpg?alt=media&token=09d1132e-6868-4147-8f33-f40c92227c72",
+      "price": "78",
+      "code": "SALEOFF03",
+      "status": "1",
+      "Quantity": 33,
+      "id": "NyhEHFi"
+    },
+    {
+      "idcategory": "4",
+      "name": "Const Pl Chuck Star",
+      "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2Fsale-off-4.jpg?alt=media&token=67cdabab-af84-4499-9e7e-0f3f538f091a",
+      "price": "45",
+      "code": "SALEOFF05",
+      "status": "1",
+      "Quantity": 324,
+      "id": "QQ_3UAU"
+    },
+    {
+      "idcategory": "4",
+      "name": "Const Ultra Star Fire",
+      "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2Fsale-off-7.jpg?alt=media&token=426216bd-fa4a-4870-b591-58c5e0c00920",
+      "price": "11",
+      "code": "SALEOFF06",
+      "status": "1",
+      "Quantity": 3421,
+      "id": "6-h8tQ0"
+    },
+    {
+      "idcategory": "4",
+      "name": "Chuck 70 Psy-Kicks Ox",
+      "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2Fwomen-psy-2-600x384.jpg?alt=media&token=3c8b72f0-637e-4590-9d7b-65529b5b8ad1",
+      "price": "22",
+      "code": "SALEOFF07",
+      "status": "1",
+      "Quantity": 342,
+      "id": "JddP3nX"
+    },
+    {
+      "idcategory": "4",
+      "name": "Chuck 70 Archive Prints Hi Version 2.0",
+      "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2Fwomen-chuck-07-600x384.jpg?alt=media&token=24cd8441-5596-4e8e-b344-21fcf5c8b6bb",
+      "price": "332",
+      "code": "SALEOFF08",
+      "status": "1",
+      "Quantity": "233",
+      "id": "a7-nLdg"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Phụ Kiện Khác"
+    },
+    {
+      "id": "2",
+      "name": "Nữ"
+    },
+    {
+      "id": "3",
+      "name": "Nam"
+    },
+    {
+      "id": "4",
+      "name": "Giảm giá"
+    }
+  ],
+  "users": [
+    {
+      "email": "drhaisctn2@gmail.com",
+      "password": "$2a$10$6KsN4zSi6vWL6f37Tr4PV.Th1Clp385WfIq1iyBwgTDUIdLpfRh96",
+      "id": 1
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$qV.XkphvLRZGyMEGqDJ0YeV6BPCd4UkXs.lnJG5jtLBBynMJZpmqK",
+      "id": 2
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$xJtzlm0/H7W4Ae0MhFh2eOAmHi4v9YHssGX8uPzW3DGf19AQ9grEm",
+      "id": 3
+    }
+  ],
+  "carts": [
+    {
+      "name": "Nguyễn Đức Hải",
+      "email": "admin@123",
+      "cart": [
+        {
+          "idcategory": "3",
+          "name": "Chuck 70 Archive Prints Hi",
+          "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2Fwomen-chuck-07-600x384.jpg?alt=media&token=24cd8441-5596-4e8e-b344-21fcf5c8b6bb",
+          "price": "199",
+          "code": "163406C",
+          "status": "1",
+          "Quantity": 23,
+          "id": "eSbxp2m",
+          "quantity": 1
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "HaiDepTraiBoDoiQua",
+      "email": "drhaisctn2@gmail.com",
+      "cart": [
+        {
+          "idcategory": "2",
+          "name": "Chuck 70 Psy-Kicks Ox",
+          "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2Fwomen-psy-2-600x384.jpg?alt=media&token=3c8b72f0-637e-4590-9d7b-65529b5b8ad1",
+          "price": "20",
+          "code": "164212C",
+          "status": "1",
+          "Quantity": 67,
+          "id": "pFcC5D2",
+          "quantity": 5
+        },
+        {
+          "idcategory": "1",
+          "name": "Converse Collegiate Text SS Tee",
+          "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2FT-shirt.jpg?alt=media&token=18676c2e-8919-48f3-be26-29d47c40af71",
+          "price": "100",
+          "code": "10017340001",
+          "status": "1",
+          "Quantity": 1,
+          "id": "xSeJ_ZJ",
+          "quantity": 3
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Nguyễn Đức Hải",
+      "email": "drhaisctn2@gmail.com",
+      "cart": [
+        {
+          "idcategory": "1",
+          "name": "Speed 2 Backpack",
+          "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2Fbalo-3-600x384.jpg?alt=media&token=35deb216-077c-4d93-9eca-fdd6fb62859f",
+          "price": "123",
+          "code": "10008286426",
+          "status": "1",
+          "Quantity": 90,
+          "id": "S9_nl-A",
+          "quantity": 3
+        },
+        {
+          "idcategory": "4",
+          "name": "Chuck 70 Psy-Kicks Ox",
+          "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2Fwomen-psy-2-600x384.jpg?alt=media&token=3c8b72f0-637e-4590-9d7b-65529b5b8ad1",
+          "price": "22",
+          "code": "SALEOFF07",
+          "status": "1",
+          "Quantity": 342,
+          "id": "JddP3nX",
+          "quantity": 2
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "Nguyễn Đức Hải",
+      "email": "drhaisctn2@gmail.com",
+      "cart": [
+        {
+          "idcategory": "4",
+          "name": "Const Ultra Star Fire",
+          "image": "https://firebasestorage.googleapis.com/v0/b/asm-ecma.appspot.com/o/images%2Fsale-off-7.jpg?alt=media&token=426216bd-fa4a-4870-b591-58c5e0c00920",
+          "price": "11",
+          "code": "SALEOFF06",
+          "status": "1",
+          "Quantity": 3421,
+          "id": "6-h8tQ0",
+          "quantity": 3
+        }
+      ],
+      "id": 6
+    }
+  ],
+  "comment": [
+    {
+      "idproduct": "a7-nLdg",
+      "description": "san pham dep ",
+      "email": "haindph13158@fpt.edu.vn",
+      "name": "hai",
+      "id": 52
+    },
+    {
+      "idproduct": "xSeJ_ZJ",
+      "description": "san pham dep ",
+      "email": "drhaisctn2@gmail.com",
+      "name": "drhaisctn2 nguyen",
+      "id": 55
+    },
+    {
+      "idproduct": "xSeJ_ZJ",
+      "description": "haideptraivodich",
+      "email": "drhaisctn2@gmail.com",
+      "name": "nguyenduchai",
+      "id": 56
+    },
+    {
+      "idproduct": "xSeJ_ZJ",
+      "description": "san pham dep ",
+      "email": "drhaisctn2@gmail.com",
+      "name": "drhaisctn2 nguyen",
+      "id": 59
+    },
+    {
+      "idproduct": "6-h8tQ0",
+      "description": "san pham dep ",
+      "email": "drhaisctn2@gmail.com",
+      "name": "drhaisctn2 nguyen",
+      "id": 60
+    },
+    {
+      "idproduct": "6-h8tQ0",
+      "description": "haideptraivodich",
+      "email": "drhaisctn2@gmail.com",
+      "name": "drhaisctn2 nguyen",
+      "id": 61
+    },
+    {
+      "idproduct": "6-h8tQ0",
+      "description": "haideptraivodich",
+      "email": "drhaisctn2@gmail.com",
+      "name": "drhaisctn2 nguyen",
+      "id": 62
+    },
+    {
+      "idproduct": "6-h8tQ0",
+      "description": "san pham dep ",
+      "email": "drhaisctn2@gmail.com",
+      "name": "drhaisctn2 nguyen",
+      "id": 63
+    },
+    {
+      "idproduct": "6-h8tQ0",
+      "description": "san pham dep ",
+      "email": "drhaisctn2@gmail.com",
+      "name": "Nguyen Duc Hai K16 FPOLY",
+      "id": 64
+    },
+    {
+      "idproduct": "JddP3nX",
+      "description": "Sản phẩm 10 điểm",
+      "email": "drhaisctn2@gmail.com",
+      "name": "nguyenduchai",
+      "id": 65
+    },
+    {
+      "idproduct": "JddP3nX",
+      "description": "s",
+      "email": "drhaisctn2@gmail.com",
+      "name": "drhaisctn2 nguyen",
+      "id": 66
+    },
+    {
+      "idproduct": "pFcC5D2",
+      "description": "Sản phẩm 10 điểm",
+      "email": "drhaisctn2@gmail.com",
+      "name": "drhaisctn2 nguyen",
+      "id": 67
+    },
+    {
+      "idproduct": "S9_nl-A",
+      "description": "Sản phẩm 10 điểm",
+      "email": "admin@gmail.com",
+      "name": "Khen_Đểu_12_10_2000@yahoo.com",
+      "id": 68
+    },
+    {
+      "idproduct": "eSbxp2m",
+      "description": "Sản phẩm 10 điểm",
+      "email": "drhaisctn2@gmail.com",
+      "name": "drhaisctn2 nguyen",
+      "id": 69
+    }
+  ]
+}
